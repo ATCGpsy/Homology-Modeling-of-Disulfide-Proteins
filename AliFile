@@ -1,0 +1,9 @@
+C; A sample alignment in the PIR format; used in tutorial
+
+>P1;temp
+structureX:temp.pdb::A::::::
+*
+
+>P1;target
+sequence:target::::::::
+*
